@@ -1,0 +1,13 @@
+freq_group,prev_group,discount_flag,n,subscription_rate,expected_subscribers
+HighFreq,HighPrev,Yes,382,0.6701570680628273,256.0
+LowFreq,HighPrev,Yes,371,0.628032345013477,232.99999999999997
+LowFreq,LowPrev,Yes,366,0.6038251366120219,221.0
+HighFreq,LowPrev,Yes,321,0.6043613707165109,194.0
+MidFreq,HighPrev,Yes,119,0.6722689075630253,80.0
+MidFreq,LowPrev,Yes,118,0.5847457627118644,69.0
+HighFreq,HighPrev,No,461,0.0,0.0
+HighFreq,LowPrev,No,464,0.0,0.0
+LowFreq,HighPrev,No,515,0.0,0.0
+LowFreq,LowPrev,No,467,0.0,0.0
+MidFreq,HighPrev,No,166,0.0,0.0
+MidFreq,LowPrev,No,150,0.0,0.0
